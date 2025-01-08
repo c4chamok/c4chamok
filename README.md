@@ -35,7 +35,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="https://github.com/c4chamok/c4chamok/blob/main/file-type-tailwind.svg" height="10" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://github.com/c4chamok/c4chamok/blob/main/file-type-tailwind.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
 ###
