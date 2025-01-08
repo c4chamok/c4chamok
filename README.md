@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/c4chamok/c4chamok/refs/heads/main/Banner.jpg" alt="Banner" style="width:100%;" />
+</div>
+
 <h1 align="left">Hi, I'm Navid Chowdhury</h1>
 
 ###
 
-<h4 align="left">🌐 Web Developer | 🚀 MERN Stack Enthusiast </h4>
+<h4 align="left">🌐 Backend Developer | 🚀 MERN Stack Enthusiast </h4>
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a passionate web developer specializing in building dynamic and responsive web applications. Currently diving deep into the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js) and enhancing my design game with <strong>Tailwind CSS</strong>. Let's craft amazing digital experiences together!</p>
+<p align="left">I'm a passionate backend developer specializing in creating efficient, scalable, and secure server-side applications. Currently diving deep into the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js) and enhancing my skills with <strong>Tailwind CSS</strong>. I have a strong love for exploring and learning new technologies to push the boundaries of what's possible.</p>
 
 ###
 
@@ -104,3 +108,12 @@
   </a>
 </div>
 
+###
+
+<h2 align="left">✨ Animations</h2>
+
+###
+
+<div align="center">
+  <img src="https://github.com/c4chamok/c4chamok/raw/main/assets/animation.gif" alt="Cool Animation" />
+</div>
