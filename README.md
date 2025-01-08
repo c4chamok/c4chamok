@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🌐 Backend Developer | 🚀 MERN Stack Enthusiast </h4>
+<h4 align="left">🌐 Web Developer | 🚀 MERN Stack Enthusiast </h4>
 
 ###
 
@@ -14,7 +14,30 @@
 
 ###
 
-<p align="left">I'm a passionate backend developer specializing in creating efficient, scalable, and secure server-side applications. Currently diving deep into the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js) and enhancing my skills with <strong>Tailwind CSS</strong>. I have a strong love for exploring and learning new technologies to push the boundaries of what's possible.</p>
+<p align="left">I'm a passionate web developer specializing in creating efficient, scalable, and secure applications. Currently diving deep into the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js) and enhancing my skills with <strong>Server Side</strong>. I have a strong love for exploring and learning new technologies to push the boundaries of what's possible.</p>
+
+<h2 align="left">🚀 What I'm up to</h2>
+
+<ul align="left">
+  <li><strong>Currently Working On:</strong></li>
+  <ul>
+    <li>Building robust backend systems with <strong>Node.js</strong> and <strong>Express.js</strong>.</li>
+    <li>Developing responsive user interfaces using <strong>React</strong> and <strong>Tailwind CSS</strong>.</li>
+    <li>Implementing secure authentication with <strong>JWT</strong>.</li>
+    <li>Managing data efficiently with <strong>MongoDB</strong>.</li>
+  </ul>
+  <li><strong>Learning & Exploring:</strong></li>
+  <ul>
+    <li>Diving deep into <strong>MongoDB Aggregation Framework</strong> for advanced data processing.</li>
+    <li>Optimizing backend performance and scalability.</li>
+  </ul>
+  <li><strong>What’s Next:</strong></li>
+  <ul>
+    <li>Exploring <strong>Socket.IO</strong> to build real-time applications like chat systems.</li>
+    <li>Learning advanced design patterns for scalable backend development.</li>
+  </ul>
+</ul>
+
 
 ###
 
