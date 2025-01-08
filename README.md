@@ -108,12 +108,3 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">✨ Animations</h2>
-
-###
-
-<div align="center">
-  <img src="https://github.com/c4chamok/c4chamok/raw/main/assets/animation.gif" alt="Cool Animation" />
-</div>
