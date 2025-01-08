@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🌐 Web Developer | 🚀 MERN Stack Enthusiast | 🎨 Tailwind Lover</h4>
+<h4 align="left">🌐 Web Developer | 🚀 MERN Stack Enthusiast </h4>
 
 ###
 
@@ -71,7 +71,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" title="Canva" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
 </div>
 
 ###
