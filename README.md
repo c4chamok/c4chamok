@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/c4chamok/c4chamok/refs/heads/main/mern-stack-development.webp" alt="Banner" style="width:100%;" />
+  <img src="https://raw.githubusercontent.com/c4chamok/c4chamok/refs/heads/main/LinkedIn-Banner-Navid.png" alt="Banner" style="width:100%;" />
 </div>
 
 <h1 align="left">Hi, I'm Navid Chowdhury</h1>
