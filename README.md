@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/c4chamok/c4chamok/refs/heads/main/LinkedIn-Banner-Navid.png" alt="Banner" style="width:100%;" />
 </div>
@@ -120,15 +121,10 @@
 <h4>Contact Number : +880 1581-019434 </h4>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/c4chamok" target="_blank">
+  <a href="https://www.linkedin.com/in/navid-chowdhury008/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <img width="12" />
-  <a href="https://twitter.com/c4chamok" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" title="Twitter" />
-  </a>
-  <img width="12" />
-  <a href="https://c4chamok.github.io/" target="_blank">
+  </a> 
+  <a href="https://navidtech-8d5be.web.app/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Portfolio" title="Portfolio" />
   </a>
 </div>
